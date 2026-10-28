@@ -18,7 +18,7 @@
   if(c){
     var sl=c.querySelectorAll('.slide'),dots=c.querySelector('.dots'),i=0,t;
     sl.forEach(function(_,n){
-      var b=document.createElement('button');b.type='button';b.setAttribute('aria-label','Reseña '+(n+1));
+      var b=document.createElement('button');b.type='button';b.setAttribute('aria-label','Compromiso '+(n+1));
       b.addEventListener('click',function(){go(n);restart()});dots.appendChild(b);
     });
     function go(n){i=n;sl.forEach(function(s,k){s.classList.toggle('active',k===n)});

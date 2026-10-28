@@ -1,8 +1,8 @@
 DATOS DE EJEMPLO A SUSTITUIR ANTES DE PUBLICAR
 - Teléfono 600 000 000 / WhatsApp, email info@transportesochoa.es, dirección y horario (footer, contacto, JSON-LD)
 - Dominio https://www.transportesochoa.es (canonical, sitemap, robots, og:url)
-- Cifras (+15 años, +500 clientes) y textos de historia / sobre nosotros
-- Reseñas: son marcadores, poner opiniones reales
+- Cifras (+15 años, +500 clientes) y textos de historia / sobre nosotros: ajustar a la realidad
+- Sección "Nuestra palabra": son compromisos de la empresa; si hay opiniones reales de clientes, se pueden añadir
 - Datos fiscales en aviso legal y privacidad (NIF, apellidos)
 - Mapa de contacto (poner dirección real)
 - Formulario: solo valida en cliente; falta conectar un servicio de envío (Formspree, PHP...)
